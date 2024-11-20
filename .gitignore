@@ -1,0 +1,7 @@
+node_modules
+
+routes
+
+.env
+
+front_end\node_modules
